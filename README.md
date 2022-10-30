@@ -6,5 +6,9 @@ This project was made as part of Level Zero of [NeogCamp](www.neog.camp)
 
 This project demonstrates the use of ReactJS.
 
-Book recommendations app displays topics of books and clicking the topics shows books based on the topic. 
+Book recommendations app displays topics of books and clicking the topics shows books based on the topic.
+
+[Codesandbox Link](https://codesandbox.io/s/visitmumbai-app-final-233r2y)
+
+[Codesandbox Live](https://233r2y.csb.app/)
 
