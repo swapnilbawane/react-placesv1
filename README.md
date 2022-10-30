@@ -12,3 +12,6 @@ Places to visit in Mumbai app displays places and clicking the places shows area
 
 [Codesandbox Live](https://233r2y.csb.app/)
 
+Home Page:
+![Home page](https://github.com/swapnilbawane/react-placesv1/blob/main/screenshot/m9-home.png?raw=true)
+
